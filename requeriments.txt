@@ -1,0 +1,10 @@
+libportaudio2
+sounddevice
+soundfile
+webbrowser
+librosa
+pillow
+numpy
+opencv-python
+
+
