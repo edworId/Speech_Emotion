@@ -11,7 +11,7 @@ ACCESS TO RAVDESS DATASET: <https://zenodo.org/record/1188976> <br />
 
 <h1 align="center">  </h1>
 <p align="center">
-<img width="300", title="RECORD AND DETECT", img src="https://github.com/edworId/speech_emotion/blob/master/design.jpg"/>
+<img width="300", title="RECORD AND DETECT", img src="https://github.com/edworId/speech_emotion/blob/main/design.jpg"/>
 </p>
 
 <h6 align="center">This interface was built using python and the library tkinter, which works for GUI developments. </h6>
