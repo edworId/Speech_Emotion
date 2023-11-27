@@ -6,7 +6,7 @@
 
 This project works with audios to detect emotions. 
 
-EMOTIONS: ['neutral','calm','happy','sad','angry','fear','disgust','surprised','song', 'speech'] <br />
+EMOTIONS: Neutral, Calm, Happy, Sad, Angry, Fear, Disgust, Surprised <br />
 ACCESS TO RAVDESS DATASET: <https://zenodo.org/record/1188976> <br />
 
 <h1 align="center">  </h1>
